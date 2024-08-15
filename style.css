@@ -1,0 +1,20 @@
+body{
+ background-color: antiquewhite;
+ background-image: url(images/img2.jpg);
+ background-size: cover;
+}
+.head{
+ background-color: blueviolet;
+    padding: 2%;
+}
+.todo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+   margin-left: 400px
+}
+.sec-1{
+    margin-top: 10%;
+}
+.input{
+    width: 90%
+}
